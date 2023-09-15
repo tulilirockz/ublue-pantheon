@@ -1,0 +1,79 @@
+{
+    "all": {
+        "include": {
+            "all": [
+                "elementary-calculator",
+                "elementary-calendar",
+                "elementary-camera",
+                "elementary-capnet-assist",
+                "elementary-code",
+                "elementary-files",
+                "elementary-greeter",
+                "elementary-icon-theme",
+                "elementary-music",
+                "elementary-notifications",
+                "elementary-photos",
+                "elementary-print",
+                "elementary-screenshot-tool",
+                "elementary-shortcut-overlay",
+                "elementary-sideload",
+                "elementary-sound-theme",
+                "elementary-terminal",
+                "elementary-theme",
+                "elementary-videos",
+                "elementary-wallpapers",
+                "gala",
+                "pantheon-agent-geoclue2",
+                "pantheon-agent-polkit",
+                "pantheon-session-settings",
+                "pantheon-tweaks",
+                "plank",
+                "switchboard",
+                "switchboard-plug-a11y",
+                "switchboard-plug-about",
+                "switchboard-plug-applications",
+                "switchboard-plug-bluetooth",
+                "switchboard-plug-display",
+                "switchboard-plug-keyboard",
+                "switchboard-plug-mouse-touchpad",
+                "switchboard-plug-networking",
+                "switchboard-plug-notifications",
+                "switchboard-plug-pantheon-shell",
+                "switchboard-plug-printers",
+                "switchboard-plug-sharing",
+                "switchboard-plug-sound",
+                "touchegg",
+                "wingpanel",
+                "wingpanel-applications-menu",
+                "wingpanel-indicator-bluetooth",
+                "wingpanel-indicator-datetime",
+                "wingpanel-indicator-keyboard",
+                "wingpanel-indicator-network",
+                "wingpanel-indicator-nightlight",
+                "wingpanel-indicator-notifications",
+                "wingpanel-indicator-power",
+                "wingpanel-indicator-session",
+                "wingpanel-indicator-sound"
+            ]
+        },
+        "exclude": {
+            "all": []
+        }
+    },
+    "37": {
+        "include": {
+            "all": []
+        },
+        "exclude": {
+            "all": []
+        }
+    },
+    "38": {
+        "include": {
+            "all": []
+        },
+        "exclude": {
+            "all": []
+        }
+    }
+}
