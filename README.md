@@ -4,7 +4,7 @@
 
 [![build](https://github.com/tulilirockz/ublue-pantheon/actions/workflows/build.yml/badge.svg)](https://github.com/tulilirockz/ublue-pantheon/actions/workflows/build.yml)
 
-![Pantheon Desktop Showcase Image](pantheon-desktop.png)
+![Pantheon Desktop Showcase Image](showcase-image.png)
 
 To try this image, you can use an existing Fedora Silverblue install.
 
