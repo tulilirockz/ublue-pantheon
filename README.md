@@ -1,10 +1,10 @@
 # pantheon 
 
-**This image is experimental**
+**This image is experimental**, although everything seems to be working fine.
 
 [![build](https://github.com/tulilirockz/ublue-pantheon/actions/workflows/build.yml/badge.svg)](https://github.com/tulilirockz/ublue-pantheon/actions/workflows/build.yml)
 
-![Pantheon Desktop Showcase Image](pantheon-showcase.png)
+![Pantheon Desktop Showcase Image](pantheon-desktop.png)
 
 To try this image, you can use an existing Fedora Silverblue install.
 
