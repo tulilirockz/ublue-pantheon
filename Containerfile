@@ -19,6 +19,8 @@ RUN chmod +x /usr/etc/ublue-lightdm-workaround.sh && \
     cp /usr/etc/systemd/system/ublue-lightdm-workaround.service /etc/systemd/system/ && \
     /tmp/build.sh && \
     rm -rf /tmp/* /var/* && \
+    rm /usr/etc/yum.repos.d/terra.repo && \
+    rm /etc/yum.repos.d/terra.repo && \
     systemctl disable gdm.service && \
     systemctl enable ublue-lightdm-workaround && \
     systemctl enable lightdm.service && \
