@@ -2,6 +2,8 @@
     "all": {
         "include": {
             "all": [
+                "gnome-software",
+                "elementary-onboarding",
                 "elementary-calculator",
                 "elementary-calendar",
                 "elementary-camera",
@@ -27,6 +29,7 @@
                 "pantheon-agent-polkit",
                 "pantheon-session-settings",
                 "pantheon-tweaks",
+                "xdg-desktop-portal-pantheon",
                 "plank",
                 "switchboard",
                 "switchboard-plug-a11y",
