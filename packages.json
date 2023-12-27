@@ -2,7 +2,6 @@
     "all": {
         "include": {
             "all": [
-                "gnome-software",
                 "elementary-onboarding",
                 "elementary-calculator",
                 "elementary-calendar",
