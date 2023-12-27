@@ -21,7 +21,7 @@ RUN chmod +x /usr/etc/ublue-lightdm-workaround.sh && \
     rm -rf /tmp/* /var/* && \
     rm /usr/etc/yum.repos.d/terra.repo && \
     rm /etc/yum.repos.d/terra.repo && \
-    if [ $FEDORA_MAJOR_VERSION == 38] ; then systemctl disable gdm ; fi && \
+    if [ $FEDORA_MAJOR_VERSION == 38 ] ; then systemctl disable gdm ; fi && \
     systemctl enable ublue-lightdm-workaround && \
     systemctl enable lightdm.service && \
     systemctl enable touchegg.service && \
